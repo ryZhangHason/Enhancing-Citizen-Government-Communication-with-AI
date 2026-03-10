@@ -9,6 +9,6 @@ Zhang, R., & Nie, L. (2026). Enhancing Communication Quality between Government 
   author={Zhang, Ruiyu and Nie, Lin},
   journal={Information Polity},
   year={2026},
-  DOI={10.1177/15701255261427986}
-}
+  doi = {10.1177/15701255261427986},
+  URL = {https://doi.org/10.1177/15701255261427986}
 ```
