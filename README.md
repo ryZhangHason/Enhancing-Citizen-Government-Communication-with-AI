@@ -2,12 +2,13 @@
 
 If you use this data, please cite:
 
-Zhang, R., & Nie, L. (2025). Enhancing Citizen-Government Communication with AI: Evaluating the Impact of AI-Assisted Interactions on Communication Quality and Satisfaction. arXiv preprint arXiv:2501.10715.
+Zhang, R., & Nie, L. (2026). Enhancing Communication Quality between Government and Citizens: The Role of AI Modification. Information Polity. https://doi.org/10.1177/15701255261427986
 ```bibtex
 @article{zhang2025enhancing,
-  title={Enhancing Citizen-Government Communication with AI: Evaluating the Impact of AI-Assisted Interactions on Communication Quality and Satisfaction},
+  title={Enhancing Communication Quality between Government and Citizens: The Role of AI Modification},
   author={Zhang, Ruiyu and Nie, Lin},
-  journal={arXiv preprint arXiv:2501.10715},
-  year={2025}
+  journal={Information Polity},
+  year={2026},
+  DOI={10.1177/15701255261427986}
 }
 ```
